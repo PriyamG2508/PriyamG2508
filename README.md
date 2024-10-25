@@ -3,7 +3,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyamg2508&label=Profile%20views&color=0e75b6&style=flat" alt="priyamg2508" /> </p>
+### Profile Views :<br>
+  <img src="https://profile-counter.glitch.me/PriyamG2508/count.svg" />
 
 - 🌱 I’m currently learning **Computer Science Engineering**
 
