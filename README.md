@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Priyam Gupta</h1>
-<h3 align="center">A passionate Data Science explorer from India</h3>
+<h3 align="center">A Data Science enthusiast from India</h3>
 
 <div align="center">
   <img alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 </div>
 
-### Profile Views :<br>
+<div align="center">
+<h3>Profile Views</h3>
   <img src="https://profile-counter.glitch.me/PriyamG2508/count.svg" />
+</div>
 
 - 🌱 I’m currently learning **Computer Science Engineering**
 
@@ -36,7 +38,7 @@
 
 <h1 align="left">Github Statistics:</h1>
 <!-- Wrap the entire section in a div to center it -->
-<div align="center" style="margin: 20px;">
+<div align="left" style="margin: 20px;">
 
   <!-- First section (Top Languages) -->
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyamg2508&show_icons=true&locale=en&layout=compact&theme=black-ice&bg_color=0D1117&hide_border=true&icon_color=79ff97&text_color=ffffff" alt="priyamg2508" /></p>
