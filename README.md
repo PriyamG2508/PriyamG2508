@@ -8,22 +8,28 @@
 </div>
 
 <div align="center">
-<h3>Profile Views</h3>
-  <img src="https://profile-counter.glitch.me/PriyamG2508/count.svg" />
-</div>
+ 
+ 🔭 I’m currently working as **a student**
+ 
+ 🌱 I’m currently learning **Computer Science Engineering**
 
-- 🌱 I’m currently learning **Computer Science Engineering**
+💬 Ask me about **Pandas, Seaborn, Numpy**
 
-- 📫 How to reach me **priyamgupta2508@gmail.com**
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
-<h1 align="left">Connect with me:</h1>
-<p align="left">
+ </div>
+
+<h1 align="center">Connect with me:</h1>
+
+<p align="center">
+<a href="www.linkedin.com/in/priyam18124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyam gupta" height="30" width="40" /></a>
+<a href="https://kaggle.com/priyamgupta2508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="priyamgupta2508" height="30" width="40" /></a>
 <a href="https://fb.com/priyam gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="priyam gupta" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_priyam_2003/?igsh=d2o3eHZoa2U4bzhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_priyam_2003" height="30" width="40" /></a>
+<a href="https://instagram.com/_priyam_2003](https://www.instagram.com/_priyam_2003/?igsh=d2o3eHZoa2U4bzhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_priyam_2003" height="30" width="40" /></a>
 </p>
 
-<h1 align="left">Languages and Tools:</h1>
-<p align="left"> 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<p align="center"> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
 </a> 
