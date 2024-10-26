@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Priyam Gupta</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Priyam+Gupta!;" />
+</h1>
 <h3 align="center">A Data Science enthusiast from India</h3>
 
 <div align="center">
@@ -38,21 +40,26 @@
 
 <h1 align="left">Github Statistics:</h1>
 <!-- Wrap the entire section in a div to center it -->
-<div align="left" style="margin: 20px;">
+<div align="center" style="background-color: black; padding: 20px;">
 
   <!-- First section (Top Languages) -->
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyamg2508&show_icons=true&locale=en&layout=compact&theme=black-ice&bg_color=0D1117&hide_border=true&icon_color=79ff97&text_color=ffffff" alt="priyamg2508" /></p>
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyamg2508&show_icons=true&locale=en&layout=compact&theme=dark" alt="priyamg2508" />
+  </p>
 
-  <!-- Shorter Line between sections -->
   <hr style="border: 1px solid #79ff97; width: 30%;">
 
   <!-- Second section (GitHub Stats) -->
-  <p><img src="https://github-readme-stats.vercel.app/api?username=priyamg2508&show_icons=true&locale=en&theme=black-ice&bg_color=0D1117&hide_border=true&icon_color=79ff97&text_color=ffffff" alt="priyamg2508" /></p>
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=priyamg2508&show_icons=true&locale=en&theme=dark" alt="priyamg2508" />
+  </p>
 
-  <!-- Shorter Line between sections -->
   <hr style="border: 1px solid #79ff97; width: 30%;">
 
-  <!-- Third section (Streak Stats) -->
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=priyamg2508&theme=black-ice&bg_color=0D1117&hide_border=true&stroke=0000&ring=79ff97&fire=79ff97&currStreakNum=ffffff&sideNums=79ff97&sideLabels=ffffff&dates=ffffff" alt="priyamg2508" /></p>
+  <!-- Third section (GitHub Streak Stats) -->
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyamg2508&theme=dark" alt="priyamg2508" />
+  </p>
 
 </div>
+
