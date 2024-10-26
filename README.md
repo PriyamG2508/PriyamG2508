@@ -52,6 +52,12 @@
   <br/><br/><br/>
 </div>
 
+<div align="center">
+    <h2>🏆Github Trophies🏆</h2>
+    <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=PriyamG2508&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+</div>
+
+
 <h1 align="center">⚡ Stats ⚡</h1>
 <!-- Wrap the entire section in a div to center it -->
 <div align="center" style="background-color: black; padding: 20px;">
