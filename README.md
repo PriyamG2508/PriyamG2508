@@ -44,6 +44,14 @@
 </a> 
 </p>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/PriyamG2508/PriyamG2508/output/github-snake-dark.svg" />
+  
+  <br/><br/><br/>
+</div>
+
 <h1 align="center">⚡ Stats ⚡</h1>
 <!-- Wrap the entire section in a div to center it -->
 <div align="center" style="background-color: black; padding: 20px;">
