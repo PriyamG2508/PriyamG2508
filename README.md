@@ -44,7 +44,7 @@
 </a> 
 </p>
 
-<h1 align="left">Github Statistics:</h1>
+<h1 align="center">⚡ Stats ⚡</h1>
 <!-- Wrap the entire section in a div to center it -->
 <div align="center" style="background-color: black; padding: 20px;">
 
@@ -68,4 +68,8 @@
   </p>
 
 </div>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+Visiting!+✌️;+Just+ping+me+up+on+Linkedin;+I'm+always+down+to+colab+😊" />
+</h1>
 
