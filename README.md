@@ -51,27 +51,25 @@
 
 
 <h1 align="center">⚡ Stats ⚡</h1>
-<!-- Wrap the entire section in a div to center it -->
 <div align="center" style="background-color: black; padding: 20px;">
 
-  <!-- First section (Top Languages) -->
   <p>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PriyamG2508&show_icons=true&locale=en&layout=compact&theme=dark" alt="priyamg2508" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PriyamG2508&show_icons=true&locale=en&layout=compact&theme=dark" alt="PriyamG2508" />
   </p>
   
 <hr style="border: 1px solid #79ff97; width: 30%;">
 
 <p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PriyamG2508&show_icons=true&locale=en&theme=dark" alt="priyamg2508" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PriyamG2508&show_icons=true&locale=en&theme=dark" alt="PriyamG2508" />
 </p>
 
 <hr style="border: 1px solid #79ff97; width: 30%;">
 
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PriyamG2508&theme=dark" alt="priyamg2508" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PriyamG2508&theme=dark" alt="PriyamG2508" />
 </p>
-
 </div>
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+Visiting!+✌️;+Just+ping+me+up+on+Linkedin;+I'm+always+down+to+colab+😊" />
