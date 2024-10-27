@@ -45,14 +45,6 @@
 </p>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="!https://github.com/PriyamG2508/PriyamG2508/blob/output/github-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<div align="center">
     <h2>🏆Github Trophies🏆</h2>
     <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=PriyamG2508&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
 </div>
