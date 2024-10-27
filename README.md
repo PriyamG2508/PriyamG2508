@@ -56,22 +56,20 @@
 
   <!-- First section (Top Languages) -->
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyamg2508&show_icons=true&locale=en&layout=compact&theme=dark" alt="priyamg2508" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyamg2508&show_icons=true&locale=en&layout=compact&theme=dark" alt="priyamg2508" />
   </p>
+  
+<hr style="border: 1px solid #79ff97; width: 30%;">
 
-  <hr style="border: 1px solid #79ff97; width: 30%;">
-
-  <!-- Second section (GitHub Stats) -->
-  <p>
+<p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=priyamg2508&show_icons=true&locale=en&theme=dark" alt="priyamg2508" />
-  </p>
+</p>
 
-  <hr style="border: 1px solid #79ff97; width: 30%;">
+<hr style="border: 1px solid #79ff97; width: 30%;">
 
-  <!-- Third section (GitHub Streak Stats) -->
-  <p>
+<p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyamg2508&theme=dark" alt="priyamg2508" />
-  </p>
+</p>
 
 </div>
 
