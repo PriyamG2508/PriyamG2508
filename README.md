@@ -59,15 +59,13 @@
   
 <hr style="border: 1px solid #79ff97; width: 30%;">
 
-<p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PriyamG2508&show_icons=true&locale=en&theme=dark" alt="PriyamG2508" />
-</p>
+<img width="550px" src="https://github-readme-stats.vercel.app/api?username=PriyamG2508&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=39FF14&icon_color=4ADEDE&bg_color=0D111700&text_color=4ADEDE&custom_title=" alt="" />
+
 
 <hr style="border: 1px solid #79ff97; width: 30%;">
 
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PriyamG2508&theme=dark" alt="PriyamG2508" />
-</p>
+<img width="550px" src="http://github-readme-streak-stats.herokuapp.com?user=PriyamG2508&hide_border=false&background=404040&border=98FB98&fire=0FFF50&sideNums=FC6401&currStreakLabel=4ADEDE&currStreakNum=4ADEDE0&sideLabels=4ADEDE&dates=4ADEDE&stroke=" />
+
 </div>
 
 
