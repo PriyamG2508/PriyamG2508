@@ -54,9 +54,7 @@
 <div align="center" style="background-color: black; padding: 20px;">
 
   <p>
-      <img src="https://activity-graph.herokuapp.com/graph?username=PriyamG2508&theme=radical&bg_color=202020&point=DFFF00&line=0FFF50&hide_border=true&custom_title=Keep+learning,+developing+and+git-ing+it+done&color=AAFF00&area=true&area_color=98FB98">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyamG2508&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+      <img align="center", width = "500px" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyamg2508&show_icons=true&&theme=radical&count_private=true&hide_border=true&title_color=39FF14&icon_color=4ADEDE&bg_color=0D111700&text_color=4ADEDE&locale=en&layout=compact" alt="priyamg2508" />
   </p>
   
 <hr style="border: 1px solid #79ff97; width: 30%;">
