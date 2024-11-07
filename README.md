@@ -78,3 +78,8 @@
 - Public Repos: 2
 - Followers: 0
 - Following: 1
+## GitHub Stats
+
+- Public Repos: 2
+- Followers: 0
+- Following: 1
