@@ -24,7 +24,7 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config --local user.email "priyamgupta25-8@gmail.com"
+          git config --local user.email "priyamgupta2508@gmail.com"
           git config --local user.name "Priyam Gupta"
           git add README.md
           git commit -m "Update README stats" || echo "No changes to commit"
