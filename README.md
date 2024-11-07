@@ -59,8 +59,6 @@
   
 <hr style="border: 1px solid #79ff97; width: 30%;">
 
-<img width="550px" src="https://github-readme-stats.vercel.app/api?username=PriyamG2508&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=39FF14&icon_color=4ADEDE&bg_color=0D111700&text_color=4ADEDE&custom_title=My+GitHub+Stats" alt="GitHub Stats for Priyam Gupta" />
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=priyamg2508&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=39FF14&icon_color=4ADEDE&bg_color=0D111700&locale=en" alt="priyamg2508" />
 
 <hr style="border: 1px solid #79ff97; width: 30%;">
