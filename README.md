@@ -54,7 +54,7 @@
 <div align="center" style="background-color: black; padding: 20px;">
 
   <p>
-      <img align="center", width = "500px" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyamg2508&show_icons=true&&theme=radical&count_private=true&hide_border=true&title_color=39FF14&icon_color=4ADEDE&bg_color=0D111700&text_color=4ADEDE&locale=en&layout=compact" alt="priyamg2508" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyamg2508&show_icons=true&theme=radical&hide_border=true&title_color=39FF14&icon_color=4ADEDE&bg_color=0D111700&text_color=4ADEDE&locale=en&layout=compact" alt="priyamg2508" /></p>
   </p>
   
 <hr style="border: 1px solid #79ff97; width: 30%;">
