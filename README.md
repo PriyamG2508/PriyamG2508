@@ -64,7 +64,7 @@
 <hr style="border: 1px solid #79ff97; width: 30%;">
 
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyamg2508&hide_border=true&background=000000&border=000000&fire=0FFF50&sideNums=FC6401&currStreakLabel=4ADEDE&currStreakNum=4ADEDE&sideLabels=4ADEDE&dates=4ADEDE&stroke=4ADEDE" alt="priyamg2508" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyamg2508&hide_border=true&background=000000&border=000000&fire=0FFF50&sideNums=FC6401&currStreakLabel=4ADEDE&currStreakNum=4ADEDE&sideLabels=4ADEDE&dates=4ADEDE&stroke=4ADEDE" alt="priyamg2508" />
 </p>
 
 </div>
